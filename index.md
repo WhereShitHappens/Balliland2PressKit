@@ -1,55 +1,83 @@
+<!--- Balliland2PressKit -->
+
 # ![Company Name](https://github.com/WhereShitHappens/Balliland2_PressKit/blob/gh-pages/assets/images/header.jpg?raw=true)
 
-## Factsheet
+## Press Kit
 
 **Game:**  
 Balliland 2: Twilight Spell
 
-**Worldwide Release Date:**  
+**Worldwide Release:**  
 October 2015
 
 **Website:**  
 [balliland.com][homepage]
-
-**Press / Business contact:**  
-[email][contact]
-
-**Social:**  
-[Twitter][twitter]  
-[Facebook][facebook]  
-[Google+][google+]  
 
 
 **Download:**  
 [Google Play][googleplay]   
 [App store][appstore]  
 
+**Contact:**  
+[email][contact]  
+[Twitter][twitter]  
+[Facebook][facebook]  
+[Google+][google+]  
+
+
 **Address:**  
 Angel Capital Ventures  
 Athens, Achaeou 2a & Loukianou,   
 10675, Greece
 
+<!--
 **Phone:**  
 +00 (1) 22 33 44 55
+-->
 
-## Description
 
-Stuff about the studio. Talk about yourselves in the third person!
+## Balliland 2: Twilight Spell
 
-## History
+### History
 
-### Beginning
+Angel Capital Ventures (previously Rebel Crew Games) have operated for over 10 years, in the development of mobile and online marketing solutions, gamification applications for marketing and training, online publishing and in-house game development.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Balliland XL came out almost 5 years ago and managed to cumulate over 3 million downloads and win a Webby award.
 
-### Second subhed if you want it!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Development
 
+Balliland 2: Twilight spell is a puzzle game that takes pride in its non-derivative design, beautiful environments and original music. We really tried to create a unique vibe and experience that will resonate with the players.
+
+The puzzles themselves are far from easy or brainless as you might've come to know. Each puzzle is hand crafted to provide a particular experience and most of the puzzles have alternative solutions.
+
+
+
+
+### Features
+
+* Relaxing, playfully-spooky vibe
+* Constant addition of new, mind-challenging puzzles
+* Charming characters and cute animations
+* Panoramic view of all the levels for better perspective and puzzle solving
+* No time or life limits
+* Levels include an eerie Cemetery, cursed Catacombs and a haunted Castle
+* Multiple solutions for most puzzles
+* More than 90 puzzles of various difficulty levels
+* Kid friendly, light hearted theme, perfect for the Halloween season
+* Helpful hint system for those harder puzzles
+* Various ways to acquire hints if you get stuck
+* Original, Halloween themed music
+* Constant support, updates and polishing
+
+
+
+
+<!---
 ## Projects
 
 * [exampleproject][example_project]
-
+-->
 
 
 ## Videos
@@ -64,20 +92,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Images
 
-download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+![image_01_name](https://github.com/WhereShitHappens/Balliland2_PressKit/blob/gh-pages/assets/images/image_01.png?raw=true)
 
-[![image_01_name](https://www.dropbox.com/s/w1xo4tksiy430t0/2nd-Balliland2%202015-08-28%2022-29-34-01.png?dl=0)
-[![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
-[![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
-[![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
+![image_02_name](https://github.com/WhereShitHappens/Balliland2_PressKit/blob/gh-pages/assets/images/image_02.png?raw=true)
 
-## Logo & Icon
+![image_03_name](https://github.com/WhereShitHappens/Balliland2_PressKit/blob/gh-pages/assets/images/image_03.png?raw=true)
 
-download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+![image_04_name](https://github.com/WhereShitHappens/Balliland2_PressKit/blob/gh-pages/assets/images/image_04.png?raw=true)
 
-[![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
-[![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
+## Logo and Store icon
+
+![logo](https://github.com/WhereShitHappens/Balliland2_PressKit/blob/gh-pages/assets/images/logo.png?raw=true "Logo")
+
+
+[![storeicon](https://github.com/WhereShitHappens/Balliland2_PressKit/blob/gh-pages/assets/images/icon.png?raw=true)](assets/images/icon.png "Icon")
+
+
+
+<!---
 ## Awards & Recognition
 
 > * "Winner, XX awards." - *game name, December 13, 2013*
@@ -92,25 +125,27 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 > * "More quotes."  
 -- *Person name, [Site](http://geocities.blog.com/)*
 
-
+-->
 
 
 ## Team
 
 **Company**  
-[Angel Capital Ventures](https://link)
+Angel Capital Ventures
 
 **Game & Puzzle design**  
-[developer maybe](https://link)
+Aris Drosos
 
 **Programming**  
-[developer maybe](https://link)
+Rémi Boullerne
 
 **Art**  
-[artist, who knows](https://link)
+Stefanos Sargiotis
 
+<!--
 **Music**  
 [music, sound?](https://link)
+-->
 
 ## Contact
 
@@ -120,10 +155,11 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 **Twitter**  
 [https://twitter.com/BallilandACV][twitter]
 
-** Facebook**  
+**Facebook**  
 [https://www.facebook.com/BallilandGame][facebook]
 
-**Web**  
+
+**Website**  
 [balliland.com][homepage]
 
 <!--- =====================================================================  -->
@@ -144,3 +180,14 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 [googleplay]: https://play.google.com/store/apps/details?id=com.angelcapitalventures.ballilandxlii
 [appstore]: https://itunes.apple.com/fr/app/balliland-2-twilight-spell/id1009290035?l=en&mt=8
+
+[example_project]: projects/exampleproject/
+
+<!--
+download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+-->
+
+<!--
+[Angel Capital Ventures](http://angelcapitalventures.com/)
+download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+-->
