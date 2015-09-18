@@ -1,4 +1,4 @@
-# ![Company Name](assets/images/header.jpg)
+# ![Company Name](https://github.com/WhereShitHappens/Balliland2_PressKit/blob/gh-pages/assets/images/header.jpg?raw=true)
 
 ## Factsheet
 
@@ -21,8 +21,8 @@ October 2015
 
 
 **Download:**  
-[Google Play][example_project]   
-[App store][example_project]  
+[Google Play][googleplay]   
+[App store][appstore]  
 
 **Address:**  
 Angel Capital Ventures  
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
 
-[![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
+[![image_01_name](https://www.dropbox.com/s/w1xo4tksiy430t0/2nd-Balliland2%202015-08-28%2022-29-34-01.png?dl=0)
 [![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
 [![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
 [![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
@@ -142,4 +142,5 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 <!--- Projects  -->
 
-[example_project]: projects/exampleproject/
+[googleplay]: https://play.google.com/store/apps/details?id=com.angelcapitalventures.ballilandxlii
+[appstore]: https://itunes.apple.com/fr/app/balliland-2-twilight-spell/id1009290035?l=en&mt=8
